@@ -8,10 +8,10 @@
 ## Estudando:
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="45" width="75" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="JS" height="45" width="75" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="HTML" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="25" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="JS" height="25" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
 </div>
   
@@ -20,10 +20,10 @@
   ## Conhecimento básico em:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="PS" height="35" width="75" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Ai" height="35" width="75" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="center" alt="Ae" height="35" width="75" src="https://aleen42.github.io/badges/src/after_effects.svg">
-  <img align="center" alt="Pr" height="35" width="75" src="https://aleen42.github.io/badges/src/premiere.svg">
+  <img align="center" alt="PS" height="25" width="50" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Ai" height="25" width="50" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="Ae" height="25" width="50" src="https://aleen42.github.io/badges/src/after_effects.svg">
+  <img align="center" alt="Pr" height="25" width="50" src="https://aleen42.github.io/badges/src/premiere.svg">
   
 </div>
   
