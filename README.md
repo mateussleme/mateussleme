@@ -1,8 +1,8 @@
 ##
 <div align="center">
   <a href="https://github.com/mateussleme">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateussleme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussleme&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mateussleme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussleme&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Estudando:
@@ -20,10 +20,10 @@
   ## Conhecimento básico em:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="PS" height="25" width="50" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Ai" height="25" width="50" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="center" alt="Ae" height="25" width="50" src="https://aleen42.github.io/badges/src/after_effects.svg">
-  <img align="center" alt="Pr" height="25" width="50" src="https://aleen42.github.io/badges/src/premiere.svg">
+  <img align="center" alt="PS" height="50" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Ai" height="50" width="100" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="Ae" height="50" width="100" src="https://aleen42.github.io/badges/src/after_effects.svg">
+  <img align="center" alt="Pr" height="50" width="100" src="https://aleen42.github.io/badges/src/premiere.svg">
   
 </div>
   
